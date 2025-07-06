@@ -1,6 +1,7 @@
-# Ez Chajim Meta-Orchestrator
+# ez-chajim-meta
 
-Koordiniert alle Ez Chajim Module.
+Ez Chajim meta Modul (orchestrator)
 
-Stand: 8. Tammus 5785
-Q!
+**GitHub**: JEREMIA1964  
+**Stand**: 8. Tammus 5785  
+**Q!**
